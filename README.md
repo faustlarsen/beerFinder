@@ -18,11 +18,11 @@ The website contains the next pages:_
 
 ### <span style="color:#c4f4ef">View Online</span>
 
-_Visit [Last Call webpage](https://joey3001.github.io/LastCall/) at https://joey3001.github.io/LastCall/_ to view application on GitHub pages.\_
+_Visit [Last Call webpage](https://faustlarsen.github.io/beerFinder/) at https://faustlarsen.github.io/beerFinder_ to view application on GitHub pages.\_
 
 ### <span style="color:#c4f4ef">Open Locally</span>
 
-1. _Navigate to the [Last Call repo](https://github.com/joey3001/LastCall) at https://github.com/joey3001/LastCall_ to view the project files and commits.
+1. _Navigate to the [Last Call repo](https://github.com/faustlarsen/beerFinder) at https://github.com/faustlarsen/beerFinder_ to view the project files and commits.
 2. _Click on the green button labeled "Code"_ to copy repository URL.
 3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/joey3001/LastCall".
 4. _Create API Keys (see instruction below)_
