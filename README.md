@@ -24,7 +24,7 @@ _Visit [Last Call webpage](https://faustlarsen.github.io/beerFinder/) at https:/
 
 1. _Navigate to the [Last Call repo](https://github.com/faustlarsen/beerFinder) at https://github.com/faustlarsen/beerFinder_ to view the project files and commits.
 2. _Click on the green button labeled "Code"_ to copy repository URL.
-3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/joey3001/LastCall".
+3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/faustlarsen/beerFinder".
 4. _Create API Keys (see instruction below)_
 5. _Place your tokens in an .env file at the top level of your directory. Name your API key variables API_KEY and API_KEY2 in .env. Keep spelling and capitalization identical as shown below: 
 
